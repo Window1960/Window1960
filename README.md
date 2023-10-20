@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Window1960
 - 👀 I’m interested in ...Coding, hacking and creating viruses
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Anyone from around the globe
 - 📫 How to reach me ...pauledema2014@proton.me
 
 <!---
